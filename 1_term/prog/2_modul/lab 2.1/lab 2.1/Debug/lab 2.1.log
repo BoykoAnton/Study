@@ -1,0 +1,5 @@
+﻿  lab 2.1.cpp
+d:\study\labs\prog\lab 2.1\lab 2.1\lab 2.1.cpp(17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\study\labs\prog\lab 2.1\lab 2.1\lab 2.1.cpp(21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab 2.1.vcxproj -> D:\Study\Labs\Prog\lab 2.1\Debug\lab 2.1.exe
+  lab 2.1.vcxproj -> D:\Study\Labs\Prog\lab 2.1\Debug\lab 2.1.pdb (Full PDB)

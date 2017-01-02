@@ -1,0 +1,5 @@
+﻿  2.2.cpp
+d:\study\labs\prog\2.2\2.2\2.2.cpp(18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\study\labs\prog\2.2\2.2\2.2.cpp(24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  2.2.vcxproj -> D:\Study\Labs\Prog\2.2\Debug\2.2.exe
+  2.2.vcxproj -> D:\Study\Labs\Prog\2.2\Debug\2.2.pdb (Full PDB)

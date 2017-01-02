@@ -1,0 +1,5 @@
+﻿  2.4.cpp
+d:\projects\2.4\2.4\2.4.cpp(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\projects\2.4\2.4\2.4.cpp(63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  2.4.vcxproj -> D:\Projects\2.4\Debug\2.4.exe
+  2.4.vcxproj -> D:\Projects\2.4\Debug\2.4.pdb (Full PDB)

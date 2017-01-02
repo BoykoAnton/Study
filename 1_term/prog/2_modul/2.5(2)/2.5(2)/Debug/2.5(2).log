@@ -1,0 +1,5 @@
+﻿  2.5(2).cpp
+d:\projects\2.5(2)\2.5(2)\2.5(2).cpp(15): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+d:\projects\2.5(2)\2.5(2)\2.5(2).cpp(15): warning C4305: инициализация: усечение из "double" к "float"
+  2.5(2).vcxproj -> D:\Projects\2.5(2)\Debug\2.5(2).exe
+  2.5(2).vcxproj -> D:\Projects\2.5(2)\Debug\2.5(2).pdb (Full PDB)

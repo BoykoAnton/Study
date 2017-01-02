@@ -1,0 +1,4 @@
+﻿  2.5.cpp
+d:\projects\2.5\2.5\2.5.cpp(10): warning C4305: инициализация: усечение из "double" к "float"
+  2.5.vcxproj -> D:\Projects\2.5\Debug\2.5.exe
+  2.5.vcxproj -> D:\Projects\2.5\Debug\2.5.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  2.3.cpp
+d:\study\labs\prog\2.3\2.3\2.3.cpp(96): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  2.3.vcxproj -> D:\Study\Labs\Prog\2.3\Debug\2.3.exe
+  2.3.vcxproj -> D:\Study\Labs\Prog\2.3\Debug\2.3.pdb (Full PDB)
