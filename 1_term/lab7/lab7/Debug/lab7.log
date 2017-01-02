@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+d:\study\labs\prog\lab6\lab7\lab7\lab7.cpp(17): warning C4305: инициализация: усечение из "double" к "float"
+d:\study\labs\prog\lab6\lab7\lab7\lab7.cpp(21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  lab7.vcxproj -> D:\Study\Labs\Prog\lab6\lab7\Debug\lab7.exe
+  lab7.vcxproj -> D:\Study\Labs\Prog\lab6\lab7\Debug\lab7.pdb (Full PDB)

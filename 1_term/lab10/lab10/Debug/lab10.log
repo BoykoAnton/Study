@@ -1,0 +1,4 @@
+﻿  lab10.cpp
+d:\study\labs\prog\lab10\lab10\lab10.cpp(13): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lab10.vcxproj -> D:\Study\Labs\Prog\lab10\Debug\lab10.exe
+  lab10.vcxproj -> D:\Study\Labs\Prog\lab10\Debug\lab10.pdb (Full PDB)
